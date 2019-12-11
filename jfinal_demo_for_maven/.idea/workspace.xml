@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8536c639-1e14-499b-af77-ec403021e19b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jfinal_cos_2019_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jfinal_jfinal_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jfinal_jfinal_undertow_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_undertow_undertow_core_2_0_25_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_undertow_undertow_servlet_2_0_25_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_xnio_xnio_api_3_3_8_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_xnio_xnio_nio_3_3_8_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_nop_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jfinal.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jfinal.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jfinal_demo_for_maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/jfinal_demo_for_maven.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/blog/BlogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/blog/BlogInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/blog/BlogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/blog/BlogValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/common/DemoConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/common/model/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/common/model/_JFinalDemoGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/common/model/_MappingKit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/common/model/base/BaseBlog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/index/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/demo-config-dev.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/demo.pfx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/undertow.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/css/manage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/img/bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/img/left2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/img/right2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/js/jquery-1.4.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/blog/_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/blog/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/blog/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/blog/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/common/_layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/common/_paginate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/blog/BlogController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/blog/BlogInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/blog/BlogService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/blog/BlogValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/common/DemoConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/common/model/Blog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/common/model/_JFinalDemoGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/common/model/_MappingKit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/common/model/base/BaseBlog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/index/IndexController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/demo-config-dev.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/demo.pfx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/undertow.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/启动说明/___极速打包部署.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/启动说明/blog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/启动说明/fatjar-打包部署方法/fatjar-打包部署方法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/启动说明/fatjar-打包部署方法/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/启动说明/undertow-config-demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/启动说明/启动说明.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\javaweb\jfinal_demo_for_maven\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/mavenProfiles/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\mavenProfiles\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UmqZp4vt6IYwGjAjIx065bkNYP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.common.DemoConfig" />
+      <module name="jfinal_demo_for_maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoConfig" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8536c639-1e14-499b-af77-ec403021e19b" name="Default Changelist" comment="" />
+      <created>1575972176883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575972176883</updated>
+      <workItem from="1575972179617" duration="3180000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
